@@ -5,4 +5,4 @@ title: Proposal
 
 # Proposal
 
-[Paste your proposal here]
+<iframe src="Proposal.pdf" width="100%" height="900px"></iframe>
