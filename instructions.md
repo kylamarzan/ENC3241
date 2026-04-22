@@ -5,4 +5,4 @@ title: Instructions
 
 # Instructions
 
-[Paste your instructions here]
+<iframe src="Instructions.pdf" width="100%" height="900px"></iframe>
