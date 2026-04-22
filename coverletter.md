@@ -5,4 +5,4 @@ title: Cover Letter
 
 # Cover Letter
 
-[Paste your cover letter here]
+<iframe src="Cover_Letter.pdf" width="100%" height="900px"></iframe>
